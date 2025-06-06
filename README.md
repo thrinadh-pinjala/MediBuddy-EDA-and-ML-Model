@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4bf631aa-33e5-4b5c-9a4b-2f077e47a2ee)
+
+
 MediBuddy is a digital healthcare platform for an inpatient hospitalization, outpatient
 services, and corporate wellness benefits.
 MediBuddy is the award-winning technology platform from Medi Assist that transforms
