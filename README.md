@@ -25,6 +25,8 @@ smoker or a non-smoker?
 7. Does age have any barrier on the insurance claimed?
 8. Can the company extend certain discounts after checking the health status
 (BMI) in this case?
+
+
 In addition to the above analysis, build a machine learning model to predict the
 amount spent to the utmost accuracy. Validate and hyper parametrically tune the
 model to get the best results.
